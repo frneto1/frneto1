@@ -1,6 +1,6 @@
 # system.out.println(*"Hello World"*);
-:point_right:Desde 05/2025 como programador da equipe de robótica Hydra FRC (9163).  
-:point_right:Trabalhando em locomoção robótica.
+:red_circle:Desde 05/2025 como programador da equipe de robótica Hydra FRC (9163).  
+:red_circle:Trabalhando com locomoção robótica.
 
 :book:40h de POO (Java).  
 :book:20h de GIT e GITHUB.   
