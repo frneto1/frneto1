@@ -1,5 +1,7 @@
 # system.out.println(*"Hello World"*);
-🔴Desde 05/2025 como programador da equipe de robótica Hydra FRC (9163).<br>🔴Trabalhando com locomoção robótica.<br>🔴Trabalhando com interface gráfica em Java.<br><br>📖40h de POO (Java).<br>📖20h de GIT e GITHUB.<br>📖18h de Java Básico.
+🔴Desde 05/2025 como programador da equipe de robótica Hydra FRC (9163).<br>🔴Trabalhando com locomoção robótica.<br>🔴Trabalhando com interface gráfica em Java.<br><br>📖40h de POO (Java).<br>📖20h de GIT e GITHUB.<br>📖18h de Java Básico.  
+  
+"Grandes coisas estão por vir".
 
 
 ## 🌐 Socials:
