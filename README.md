@@ -1,5 +1,5 @@
 # system.out.println("Hello World");
-🔴Desde 05/2025 como programador da equipe de robótica Hydra FRC (9163).<br>🔴Trabalhando com locomoção e sistemas robóticos.<br>🔴Trabalhando com aplicativos desktop no Java Swing.<br> 🔴Estudante de HTML5 e CSS3.<br><br>📖40h de POO (Java).<br>📖20h de GIT e GITHUB.<br>📖18h de Java Básico.<br><br>"Grandes coisas estão por vir".
+🔴Desde 05/2025 como programador da equipe de robótica Hydra FRC (9163).<br>🔴Trabalhando com locomoção e sistemas robóticos.<br>🔴Trabalhando com aplicativos desktop no Java Swing.<br> 🔴Estudante de HTML5 e CSS3.<br><br>📖40h de POO (Java).<br>📖20h de GIT e GITHUB.<br>📖18h de Java Básico.<br>📖40h de Banco de Dados (MySql).<br><br>"Grandes coisas estão por vir".
 
 
 ## 🌐 Socials:
